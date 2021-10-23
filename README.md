@@ -4,4 +4,5 @@ This is description.
 
 ## Subheader
 
-Small text
+Small text, big ideas
+
